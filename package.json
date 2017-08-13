@@ -1,0 +1,22 @@
+{
+  "name": "react-study",
+  "version": "1.0.0",
+  "description": "react.js study from react armory",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zericco/react-study.git"
+  },
+  "keywords": [
+    "react.js"
+  ],
+  "author": "zericco@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zericco/react-study/issues"
+  },
+  "homepage": "https://github.com/zericco/react-study#readme"
+}
